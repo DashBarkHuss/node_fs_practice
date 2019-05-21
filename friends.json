@@ -1,0 +1,45 @@
+{
+  "friends": [
+
+    {
+      "name": "Shlomo",
+      "relation": "spouse",
+      "age": 33
+    },
+    {
+      "name": "Caryn",
+      "relation": "mom",
+      "age": 65
+    },
+    {
+      "name": "Fred",
+      "relation": "dad",
+      "age": 70
+    },
+    {
+      "name": "Chappie",
+      "relation": "brother",
+      "age": 29
+    },
+    {
+      "name": "Tallulah",
+      "relation": "sister",
+      "age": 20
+    },
+    {
+      "name": "Shaily",
+      "relation": "friend",
+      "age": 28
+    },
+    {
+      "name": "Josue",
+      "relation": "friend",
+      "age": 28
+    },
+    {
+      "name": "Josue",
+      "relation": "friend",
+      "age": 27
+    }
+  ]
+}
